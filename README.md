@@ -1,4 +1,4 @@
-# Stimulus-Perception-in-Long-Distance-Railway-Mode-Choice
+# Stimulus Perception in Long-Distance Railway Mode Choice
 
 R script for the paper: Stimulus Perception in Long-Distance Railway Mode Choice. Journal of Advanced Transportation. 2024. DOI: https://doi.org/10.1155/2023/3400555
 
